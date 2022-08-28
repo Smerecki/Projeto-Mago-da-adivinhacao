@@ -20,7 +20,7 @@
   "deixe-me pensar... está claro que sim!",
   "Perspectiva boa.",
   "As perspectivas não são tão boas.",
-  "Sim.",
+  "Sim, meu anjo!.",
   "Concentre-se e pergunte novamente.",
   "Sinais apontam que sim.",]
 
